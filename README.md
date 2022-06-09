@@ -1,4 +1,4 @@
-- :cyclone: **Olá, Me chamo @Daniel1702**
+- :cyclone: **Olá, Me chamo Daniel**
 - 👀 __Estou interessado em Programação__
 - :zap: **Aprendendo Python Recentemente...**
 - :fire: __Me segue lá no Insta <www.instagram.com/danielandrade248/>__
