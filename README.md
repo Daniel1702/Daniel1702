@@ -1,5 +1,5 @@
-- :cyclone: **Olá, Me chamo Daniel**
-- 👀 __Estou interessado em Programação__
+- :cyclone: **Olá, Me chamo Daniel...**
+- 👀 __Estou interessado em Programação...__
 - :zap: **Aprendendo Python Recentemente...**
 - :fire: __Me segue lá no Insta <www.instagram.com/danielandrade248/>__
 - :exclamation: **"Não é falta de café, nem tequila, é meu código, que não compila!"**
