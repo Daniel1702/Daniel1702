@@ -8,10 +8,10 @@
 
 <div>
 <a href="https://github.com/Daniel1702/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel1702&show_icons=true&count_private=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel1702&show_icons=true&count_private=true&theme=tokyonight"/>
 </a>
 <a href="https://github.com/Daniel1702/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel1702&layout=compact&theme=tokyonight" />
 </a>
 </div>
 
