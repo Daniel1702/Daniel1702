@@ -8,10 +8,10 @@
 
 <div>
 <a href="https://github.com/Daniel1702/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel1702&show_icons=true&count_private=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel1702&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
 </a>
 <a href="https://github.com/Daniel1702/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel1702&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel1702&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
 </div>
 
@@ -21,6 +21,7 @@
 <code><img height="30" alt="Andradh-Js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" alt="Andradh-Python" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 <code><img height="30" alt="Andradh-Sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
+<code><img height="30" alt="Andradh-MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
   
   <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1099032413935505501/1099033063457050725/Dean_Youtuber_44c4e587-2bd6-48d3-b3ed-33edc23bbd4b.png?width=700&height=700">
 </div>
