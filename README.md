@@ -23,8 +23,8 @@
 <code><img height="30" alt="Andradh-Sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
 <code><img height="30" alt="Andradh-MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
   
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1099032413935505501/1099033063457050725/Dean_Youtuber_44c4e587-2bd6-48d3-b3ed-33edc23bbd4b.png?width=700&height=700">
-</div>
+ <!--- <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1099032413935505501/1099033063457050725/Dean_Youtuber_44c4e587-2bd6-48d3-b3ed-33edc23bbd4b.png?width=700&height=700">
+</div> --->
 
 ##
 
