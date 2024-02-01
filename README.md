@@ -1,6 +1,6 @@
 - :cyclone: **Olá, Me chamo Daniel**
 - 👀 __Estou interessado em Programação__
-- :zap: **Cursando TI Atualmente**
+- :zap: **Formado em T.I**
 - :fire: __Meu Insta tá aí em baixo ⬇__
 - :exclamation: **"Não é falta de café, nem tequila, é meu código, que não compila!"**
 
