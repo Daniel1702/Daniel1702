@@ -1,7 +1,7 @@
 - :cyclone: **Olá, Me chamo Daniel**
 - 👀 __Estou interessado em Programação__
 - :zap: **Formado em T.I**
-- :fire: __Loadin__
+- :fire: __Loading__
 - :exclamation: **"Não é falta de café, nem tequila, é meu código, que não compila!"**
 
 
