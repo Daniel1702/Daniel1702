@@ -1,7 +1,7 @@
 - :cyclone: **Olá, Me chamo Daniel**
 - 👀 __Estou interessado em Programação__
 - :zap: **Formado em T.I**
-- :fire: __Meu Insta tá aí em baixo ⬇__
+- :fire: __Loadin__
 - :exclamation: **"Não é falta de café, nem tequila, é meu código, que não compila!"**
 
 
@@ -29,7 +29,7 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/1andrdh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <!-- <a href="https://instagram.com/1andrdh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> --->
  <!--- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> --->
   <a href = "mailto:danielandrades121@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
